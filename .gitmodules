@@ -1,3 +1,6 @@
 [submodule "Sources/PlanetSiteTemplates/Resources/gamedb"]
 	path = Sources/PlanetSiteTemplates/Resources/gamedb
 	url = https://github.com/Planetable/SiteTemplate8bit.git
+[submodule "Sources/PlanetSiteTemplates/Resources/plain"]
+	path = Sources/PlanetSiteTemplates/Resources/plain
+	url = https://github.com/Planetable/SiteTemplatePlain.git
