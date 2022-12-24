@@ -4,3 +4,6 @@
 [submodule "Sources/PlanetSiteTemplates/Resources/plain"]
 	path = Sources/PlanetSiteTemplates/Resources/plain
 	url = https://github.com/Planetable/SiteTemplatePlain.git
+[submodule "Sources/PlanetSiteTemplates/Resources/grid"]
+	path = Sources/PlanetSiteTemplates/Resources/grid
+	url = https://github.com/Planetable/SiteTemplateGrid
