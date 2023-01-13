@@ -8,6 +8,12 @@ Built-in site templates in [Project Planet](https://github.com/Planetable/Planet
 git clone --recurse-submodules https://github.com/Planetable/PlanetSiteTemplates
 ```
 
+If it is the first time you pull the repo, use the following command to check out all submodules.
+
+```
+git submodule update --init --recursive
+```
+
 ## Sync with Sub Projects
 
 ```
