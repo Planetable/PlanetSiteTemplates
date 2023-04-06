@@ -17,6 +17,7 @@ git submodule update --init --recursive
 ## Sync with Sub Projects
 
 ```
+git pull
 git submodule update --remote
 git add Sources
 git commit -m "commit message"
