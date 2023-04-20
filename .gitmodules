@@ -7,3 +7,6 @@
 [submodule "Sources/PlanetSiteTemplates/Resources/grid"]
 	path = Sources/PlanetSiteTemplates/Resources/grid
 	url = https://github.com/Planetable/SiteTemplateGrid
+[submodule "Sources/PlanetSiteTemplates/Resources/croptop"]
+	path = Sources/PlanetSiteTemplates/Resources/croptop
+	url = https://github.com/Planetable/SiteTemplateCroptop
