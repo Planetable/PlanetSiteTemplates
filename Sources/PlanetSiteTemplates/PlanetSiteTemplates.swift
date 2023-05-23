@@ -7,7 +7,7 @@ public struct BuiltInTemplate: Codable, Identifiable, Hashable {
     public var description: String
     public var author: String
     public var version: String
-    public var buildNumber: Int? = 0
+    public var buildNumber: Int? = 1
 
     public var base: URL!
     public var blog: URL {
