@@ -2,6 +2,12 @@
 
 Built-in site templates in [Project Planet](https://github.com/Planetable/Planet).
 
+* [Plain](https://github.com/Planetable/SiteTemplatePlain)
+* [8-bit](https://github.com/Planetable/SiteTemplate8bit)
+* [Grid](https://github.com/Planetable/SiteTemplateGrid)
+* [Croptop](https://github.com/Planetable/SiteTemplateCroptop)
+* [Sepia](https://github.com/Planetable/SiteTemplateSepia)
+
 ## Initial Pull
 
 ```
@@ -25,6 +31,16 @@ git tag -a 0.2.3 -m "tag message"
 git push origin main --tags
 ```
 
+## Add a New Template as a Submodule
+
+For example, `sepia` is a new template for microblogging, and you can add it as a submodule to the `Sources` folder like this:
+
+```
+cd Sources
+git submodule add https://github.com/Planetable/SiteTemplateSepia sepia
+```
+
 ## To-Do
 
 - [ ] Find a way to make this part of the main Planet app repo. A monorepo would be better.
+- [ ] Template browser UI needs a way to add new templates.

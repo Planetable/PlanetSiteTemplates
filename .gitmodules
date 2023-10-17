@@ -10,3 +10,6 @@
 [submodule "Sources/PlanetSiteTemplates/Resources/croptop"]
 	path = Sources/PlanetSiteTemplates/Resources/croptop
 	url = https://github.com/Planetable/SiteTemplateCroptop
+[submodule "Sources/sepia"]
+	path = Sources/sepia
+	url = https://github.com/Planetable/SiteTemplateSepia
