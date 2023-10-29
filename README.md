@@ -33,10 +33,10 @@ git push origin main --tags
 
 ## Add a New Template as a Submodule
 
-For example, `sepia` is a new template for microblogging, and you can add it as a submodule to the `Sources` folder like this:
+For example, `sepia` is a new template for microblogging, and you can add it as a submodule to the `Sources/PlanetSiteTemplates/Resources` folder like this:
 
 ```
-cd Sources
+cd Sources/PlanetSiteTemplates/Resources
 git submodule add https://github.com/Planetable/SiteTemplateSepia sepia
 ```
 
