@@ -18,7 +18,7 @@ let package = Package(
         .target(
             name: "PlanetSiteTemplates",
             resources: [
-                .copy("Resources/")
+                .copy("Templates/")
             ]
         ),
         .testTarget(

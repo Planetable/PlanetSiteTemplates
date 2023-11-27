@@ -1,15 +1,15 @@
-[submodule "Sources/PlanetSiteTemplates/Resources/gamedb"]
-	path = Sources/PlanetSiteTemplates/Resources/gamedb
+[submodule "Sources/PlanetSiteTemplates/Templates/gamedb"]
+	path = Sources/PlanetSiteTemplates/Templates/gamedb
 	url = https://github.com/Planetable/SiteTemplate8bit.git
-[submodule "Sources/PlanetSiteTemplates/Resources/plain"]
-	path = Sources/PlanetSiteTemplates/Resources/plain
+[submodule "Sources/PlanetSiteTemplates/Templates/plain"]
+	path = Sources/PlanetSiteTemplates/Templates/plain
 	url = https://github.com/Planetable/SiteTemplatePlain.git
-[submodule "Sources/PlanetSiteTemplates/Resources/grid"]
-	path = Sources/PlanetSiteTemplates/Resources/grid
+[submodule "Sources/PlanetSiteTemplates/Templates/grid"]
+	path = Sources/PlanetSiteTemplates/Templates/grid
 	url = https://github.com/Planetable/SiteTemplateGrid
-[submodule "Sources/PlanetSiteTemplates/Resources/croptop"]
-	path = Sources/PlanetSiteTemplates/Resources/croptop
+[submodule "Sources/PlanetSiteTemplates/Templates/croptop"]
+	path = Sources/PlanetSiteTemplates/Templates/croptop
 	url = https://github.com/Planetable/SiteTemplateCroptop
-[submodule "Sources/sepia"]
-	path = Sources/PlanetSiteTemplates/Resources/sepia
+[submodule "Sources/PlanetSiteTemplates/Templates/sepia"]
+	path = Sources/PlanetSiteTemplates/Templates/sepia
 	url = https://github.com/Planetable/SiteTemplateSepia

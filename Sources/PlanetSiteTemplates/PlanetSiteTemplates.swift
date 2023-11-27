@@ -40,7 +40,7 @@ public struct PlanetSiteTemplates {
 
     public static var builtInTemplates: [BuiltInTemplate] = {
         logger.info("Loading built in templates")
-        let resources = Bundle.module.url(forResource: "Resources", withExtension: nil)!
+        let resources = Bundle.module.url(forResource: "Templates", withExtension: nil)!
         let baseURLs = try! FileManager.default.listSubdirectories(url: resources)
         let templates = baseURLs.map(BuiltInTemplate.from)
         logger.info("Loaded \(templates.count) built in templates")
