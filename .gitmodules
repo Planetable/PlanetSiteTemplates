@@ -13,3 +13,6 @@
 [submodule "Sources/sepia"]
 	path = Sources/PlanetSiteTemplates/Resources/sepia
 	url = https://github.com/Planetable/SiteTemplateSepia
+[submodule "Sources/PlanetSiteTemplates/Resources/memories"]
+	path = Sources/PlanetSiteTemplates/Resources/memories
+	url = https://github.com/Planetable/SiteTemplateMemories
