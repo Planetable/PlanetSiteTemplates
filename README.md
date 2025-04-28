@@ -37,7 +37,7 @@ For example, `sepia` is a new template for microblogging, and you can add it as 
 
 ```
 cd Sources/PlanetSiteTemplates/Resources
-git submodule add https://github.com/Planetable/SiteTemplateSepia sepia
+git submodule add https://github.com/Planetable/SiteTemplateMemories memories
 ```
 
 ## To-Do
