@@ -7,6 +7,7 @@ Built-in site templates in [Project Planet](https://github.com/Planetable/Planet
 * [Grid](https://github.com/Planetable/SiteTemplateGrid)
 * [Croptop](https://github.com/Planetable/SiteTemplateCroptop)
 * [Sepia](https://github.com/Planetable/SiteTemplateSepia)
+* [Memories](https://github.com/Planetable/SiteTemplateMemories)
 
 ## Initial Pull
 
