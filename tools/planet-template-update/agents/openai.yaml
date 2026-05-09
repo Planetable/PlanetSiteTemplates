@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planet Template Update"
+  short_description: "Review and commit Planet template bumps."
+  default_prompt: "Use $planet-template-update to update PlanetSiteTemplates submodules, review the template diffs, and commit the result."

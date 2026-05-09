@@ -1,0 +1,1 @@
+- Use `$planet-template-update` for Planet's bundled template collection: pull the repo, update template submodules, review the submodule diffs, validate metadata, and commit with a detailed message.
