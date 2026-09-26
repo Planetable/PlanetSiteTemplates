@@ -16,3 +16,6 @@
 [submodule "Sources/PlanetSiteTemplates/Resources/memories"]
 	path = Sources/PlanetSiteTemplates/Resources/memories
 	url = https://github.com/Planetable/SiteTemplateMemories
+[submodule "Sources/PlanetSiteTemplates/Resources/platinum"]
+	path = Sources/PlanetSiteTemplates/Resources/platinum
+	url = https://github.com/Planetable/SiteTemplatePlatinum
