@@ -9,6 +9,7 @@ Built-in site templates in [Project Planet](https://github.com/Planetable/Planet
 * [Sepia](https://github.com/Planetable/SiteTemplateSepia)
 * [Memories](https://github.com/Planetable/SiteTemplateMemories)
 * [Platinum](https://github.com/Planetable/SiteTemplatePlatinum)
+* [Paper](https://github.com/Planetable/SiteTemplatePaper)
 
 ## Initial Pull
 

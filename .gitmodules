@@ -19,3 +19,6 @@
 [submodule "Sources/PlanetSiteTemplates/Resources/platinum"]
 	path = Sources/PlanetSiteTemplates/Resources/platinum
 	url = https://github.com/Planetable/SiteTemplatePlatinum
+[submodule "Sources/PlanetSiteTemplates/Resources/paper"]
+	path = Sources/PlanetSiteTemplates/Resources/paper
+	url = https://github.com/Planetable/SiteTemplatePaper
