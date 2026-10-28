@@ -10,6 +10,7 @@ Built-in site templates in [Project Planet](https://github.com/Planetable/Planet
 * [Memories](https://github.com/Planetable/SiteTemplateMemories)
 * [Platinum](https://github.com/Planetable/SiteTemplatePlatinum)
 * [Paper](https://github.com/Planetable/SiteTemplatePaper)
+* [Cloud](https://github.com/Planetable/SiteTemplateCloud)
 
 ## Initial Pull
 

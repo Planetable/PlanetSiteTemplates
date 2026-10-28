@@ -22,3 +22,6 @@
 [submodule "Sources/PlanetSiteTemplates/Resources/paper"]
 	path = Sources/PlanetSiteTemplates/Resources/paper
 	url = https://github.com/Planetable/SiteTemplatePaper
+[submodule "Sources/PlanetSiteTemplates/Resources/cloud"]
+	path = Sources/PlanetSiteTemplates/Resources/cloud
+	url = https://github.com/Planetable/SiteTemplateCloud
