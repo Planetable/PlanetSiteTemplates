@@ -11,6 +11,7 @@ Built-in site templates in [Project Planet](https://github.com/Planetable/Planet
 * [Platinum](https://github.com/Planetable/SiteTemplatePlatinum)
 * [Paper](https://github.com/Planetable/SiteTemplatePaper)
 * [Cloud](https://github.com/Planetable/SiteTemplateCloud)
+* [Ivory](https://github.com/Planetable/SiteTemplateIvory)
 
 ## Initial Pull
 

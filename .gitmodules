@@ -25,3 +25,6 @@
 [submodule "Sources/PlanetSiteTemplates/Resources/cloud"]
 	path = Sources/PlanetSiteTemplates/Resources/cloud
 	url = https://github.com/Planetable/SiteTemplateCloud
+[submodule "Sources/PlanetSiteTemplates/Resources/ivory"]
+	path = Sources/PlanetSiteTemplates/Resources/ivory
+	url = https://github.com/Planetable/SiteTemplateIvory
